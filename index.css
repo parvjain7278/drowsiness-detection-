@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont,
+    "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif,
+    "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  background: #f3f4f6; /* A very light gray background */
+  color: #1f2937; /* A dark gray text color */
+}
+
+/* You can add custom styles here if needed, but Tailwind classes are preferred. */
+/* For example, a custom button style */
+.custom-btn {
+  @apply px-4 py-2 font-medium rounded-lg transition-colors duration-200;
+}
+
+.custom-btn-primary {
+  @apply custom-btn bg-blue-600 text-white hover:bg-blue-700;
+}
