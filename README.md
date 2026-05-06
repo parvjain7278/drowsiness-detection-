@@ -174,8 +174,8 @@ This project demonstrates how **real-time monitoring + intelligent alerts** can 
 
 ## 🙌 Author
 
-Riya Jain
-B.Tech (ECE) Student
+Parv Jain | GGITS
+CSE (IOT) 2026IS231045 
 
 ---
 
