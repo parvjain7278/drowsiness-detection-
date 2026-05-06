@@ -184,7 +184,7 @@ CSE (IOT) 2026IS231045
 You can watch the working demo of the Drowsiness Detection System here:
 
 🔗 **Demo Video Link:**
-(https://docs.google.com/videos/d/12vD5FtztKh1FUNaFhf9SNfSqbqGJb6F0Ssq2iaggK3k/edit?usp=drive_link)
+https://drive.google.com/file/d/1uwKMQvSw_gIWrbjO-j7U-5dwyu3sgROH/view?usp=drive_link
 
 > Replace the above link with your Google Drive / YouTube video link.
 
